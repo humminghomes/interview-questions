@@ -13,12 +13,13 @@ __These questions are meant for the future to filter out candidates__
 2. A few technical questions are added to get an understanding how well a candidate understands the platform
 
 ## Process
-1. Recruiter Screening
-2. Send take home
-3. Set up first technical screen to go over take home
+1. Recruiter Screening (Nolan)
+2. Internal HH Screening (work history, work with others, 1-2 technical questions)
+3. Send take home
 4. Onsite:\
-  a. 1 Technical Interview (with engineer)\
-  b. 2 Culture Interview (with non-engineers)
+  a. Go over take home [45 mins] (with engineer)\
+  b. 1 Leadership Interview [30 mins]\
+  c. 1 Culture Interview [30 mins] (with non-engineer - Sales or Ops)
     - Look for empathy, communication, drive, interest in working in early stage
 
 ## Grading Rubric
