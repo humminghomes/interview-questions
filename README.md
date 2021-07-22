@@ -4,6 +4,9 @@
 1. Homes database, display all the homes, provide a detail for each home, edit & delete homes
 2. Payment problem; architect a way for users to send an invoice for a job, edit the invoice, and correctly pay the correct person
 
+### PR Review
+1. Create a PR in Swift UI, React, Django, and allow candidate to leave comments
+
 ## Phone Screens
 __These questions are meant for the future to filter out candidates__
 1. A few algorithm questions have been added to test junior engineers
