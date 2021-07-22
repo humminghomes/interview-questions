@@ -7,7 +7,7 @@
 ### PR Review
 1. Create a PR in Swift UI, React, Django, and allow candidate to leave comments
 
-## Phone Screens
+## Phone Screens (in [Wiki](https://github.com/humminghomes/interview-questions/wiki))
 __These questions are meant for the future to filter out candidates__
 1. A few algorithm questions have been added to test junior engineers
 2. A few technical questions are added to get an understanding how well a candidate understands the platform
