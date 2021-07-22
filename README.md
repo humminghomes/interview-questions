@@ -14,21 +14,21 @@ __These questions are meant for the future to filter out candidates__
 2. Send take home
 3. Set up first technical screen to go over take home
 4. Onsite:
-  a. 1 Technical Interview (with engineer)
-  b. 2 Culture Interview (with non-engineers)
+  - 1 Technical Interview (with engineer)
+  - 2 Culture Interview (with non-engineers)
     - Look for empathy, communication, drive, interest in working in early stage
 
 ## Grading Rubric
 ### Questions to take notes on during the interview
 1. How well does the candidate interact with interviewer?
-  a. Are they asking questions when they're stuck?
-  b. How do they react to feedback?
-  c. If they disagree with something, how do they make their stance?
+  - Are they asking questions when they're stuck?
+  - How do they react to feedback?
+  - If they disagree with something, how do they make their stance?
 2. How does the candidate approach the problem?
-  a. Do they write psedeocode first? Or directly program?
+  - Do they write psedeocode first? Or directly program?
 3. How clean is the candidate's solution?
-  a. How readable is the code?
-  b. How is everything organized & named?
+  - How readable is the code?
+  - How is everything organized & named?
 4. How does the candidate deal with restrictions?
 5. Does the candidate provide a test plan?
 
