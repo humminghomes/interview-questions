@@ -5,7 +5,7 @@
 2. Payment problem; architect a way for users to send an invoice for a job, edit the invoice, and correctly pay the correct person
 
 ### PR Review
-1. Create a PR in Swift UI, React, Django, and allow candidate to leave comments
+1. Create a Pull Request in Swift UI, React, Django, and allow candidate to leave comments
 
 ## Phone Screens (in [Wiki](https://github.com/humminghomes/interview-questions/wiki))
 __These questions are meant for the future to filter out candidates__
@@ -39,13 +39,11 @@ __These questions are meant for the future to filter out candidates__
 5. Does the candidate provide a test plan?
 
 ### Interview Review
-Overall score (1 - 4):\
-1: Would not hire, EVER\
-2: Not really excited about candidate, but could be convinced\
-3: The candidate is good, but could be convinced otherwise\
-4: I love this candidate, I WANT them on this team
+Overall score (A - D):\
+A: [Strong Yes] I love this candidate, I WANT them at Humming Homes (I’ll fight you)
+B: [Yes] The candidate is pretty solid, but could be convinced otherwise
+C: [No] Not a good candidate, but could be convinced otherwise
+D: [Strong No] Would not hire, EVER. I’ll convince others this is a bad hire
 
-Pros:
-
-Cons:
+List pros, cons, overall impression. Leave a grade.
 
