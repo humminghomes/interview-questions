@@ -1,4 +1,4 @@
-## Take Home
+## In-Person Practice Problem
 
 ### API Reference Exercise
 1. Homes database, display all the homes, provide a detail for each home, edit & delete homes
