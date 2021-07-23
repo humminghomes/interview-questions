@@ -15,12 +15,14 @@ __These questions are meant for the future to filter out candidates__
 ## Process
 1. Recruiter Screening (Nolan)
 2. Internal HH Screening (work history, work with others, 1-2 technical questions)
-3. Send take home
+3. Go over practice problem [1 hr] (with engineer)
 4. Onsite:\
-  a. Go over take home [45 mins] (with engineer)\
+  a. Go over the PR review [30 mins] (with engineer)\
   b. 1 Leadership Interview [30 mins]\
   c. 1 Culture Interview [30 mins] (with non-engineer - Sales or Ops)
     - Look for empathy, communication, drive, interest in working in early stage
+    
+ * Maybe a lunch to replace culture
 
 ## Grading Rubric
 ### Questions to take notes on during the interview
