@@ -6,6 +6,7 @@ _Note: eventually, once we have a huge influx of candidates, these can be tweake
 2. Create a zip file of the practice problem
 3. Email candidate
 4. Have them open up on their own laptop and let them code in front of you
+5. After they finish, tell them to zip the file and send back to us
 
 ### Types of interviews
 #### API Reference Exercise
