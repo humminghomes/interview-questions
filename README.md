@@ -1,7 +1,7 @@
 ## In-Person Practice Problem
 _Note: eventually, once we have a huge influx of candidates, these can be tweaked to be a little more difficult and be sent home as a take-home_
 
-#### Instructions
+### Instructions
 1. Download this repo
 2. Create a zip file of the practice problem
 3. Email candidate
