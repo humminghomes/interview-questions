@@ -1,6 +1,12 @@
 ## In-Person Practice Problem
 _Note: eventually, once we have a huge influx of candidates, these can be tweaked to be a little more difficult and be sent home as a take-home_
 
+#### Instructions
+1. Download this repo
+2. Create a zip file of the practice problem
+3. Email candidate
+4. Have them open up on their own laptop and let them code in front of you
+
 ### Types of interviews
 #### API Reference Exercise
 1. [Frontend] Homes database, display all the homes, provide a detail for each home, edit & delete homes
@@ -9,12 +15,6 @@ _Note: eventually, once we have a huge influx of candidates, these can be tweake
 
 #### PR Review
 1. Create a Pull Request in Swift UI, React, Django, and allow candidate to leave comments
-
-#### Instructions to give to candidates
-1. Download this repo
-2. Create a zip file of the practice problem
-3. Email candidate
-4. Have them open up on their own laptop and let them code in front of you
 
 ## Phone Screens (in [Wiki](https://github.com/humminghomes/interview-questions/wiki))
 __These questions are meant for the future to filter out candidates__
