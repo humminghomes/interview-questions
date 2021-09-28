@@ -1,3 +1,4 @@
+# Interview Questions
 ## In-Person Practice Problem
 _Note: eventually, once we have a huge influx of candidates, these can be tweaked to be a little more difficult and be sent home as a take-home_
 
@@ -22,7 +23,7 @@ __These questions are meant for the future to filter out candidates__
 ## PR Review (WIP)
 1. Create a Pull Request in Swift UI, React, Django, and allow candidate to leave comments
 
-## Process
+# Process
 1. Recruiter Screening
 2. Internal HH Screening (work history, work with others, 1-2 technical questions)
 3. Go over practice problem [1 hr] (with engineer)
@@ -34,7 +35,7 @@ __These questions are meant for the future to filter out candidates__
 
  * Maybe a lunch to replace culture
 
-## Grading Rubric
+# Grading Rubric
 ### Questions to take notes on during the interview
 1. How well does the candidate interact with interviewer?\
   a. Are they asking questions when they're stuck?\
