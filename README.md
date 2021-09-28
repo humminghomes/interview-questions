@@ -10,7 +10,7 @@ _Note: eventually, once we have a huge influx of candidates, these can be tweake
 
 ### Available Interviews
 1. [Frontend] Homes database; display all the homes, provide a detail for each home, edit & delete homes
-2. [Fronted] Multi-step form; create a form that has multiple steps & form validation
+2. [Frontend] Multi-step form; create a form that has multiple steps & form validation
 3. [Backend] Payment problem; architect a way for users to send an invoice for a job, edit the invoice, and correctly pay the correct person
 4. [Mobile] (@doug TODO: add a problem here)
 
