@@ -1,11 +1,20 @@
 ## In-Person Practice Problem
+_Note: eventually, once we have a huge influx of candidates, these can be tweaked to be a little more difficult and be sent home as a take-home_
 
-### API Reference Exercise
-1. Homes database, display all the homes, provide a detail for each home, edit & delete homes
-2. Payment problem; architect a way for users to send an invoice for a job, edit the invoice, and correctly pay the correct person
+### Types of interviews
+#### API Reference Exercise
+1. [Frontend] Homes database, display all the homes, provide a detail for each home, edit & delete homes
+2. [Backend] Payment problem; architect a way for users to send an invoice for a job, edit the invoice, and correctly pay the correct person
+3. [Mobile] (@doug TODO: add a problem here)
 
-### PR Review
+#### PR Review
 1. Create a Pull Request in Swift UI, React, Django, and allow candidate to leave comments
+
+#### Instructions to give to candidates
+1. Download this repo
+2. Create a zip file of the practice problem
+3. Email candidate
+4. Have them open up on their own laptop and let them code in front of you
 
 ## Phone Screens (in [Wiki](https://github.com/humminghomes/interview-questions/wiki))
 __These questions are meant for the future to filter out candidates__
@@ -13,7 +22,7 @@ __These questions are meant for the future to filter out candidates__
 2. A few technical questions are added to get an understanding how well a candidate understands the platform
 
 ## Process
-1. Recruiter Screening (Nolan)
+1. Recruiter Screening
 2. Internal HH Screening (work history, work with others, 1-2 technical questions)
 3. Go over practice problem [1 hr] (with engineer)
 4. Onsite:\
@@ -21,7 +30,7 @@ __These questions are meant for the future to filter out candidates__
   b. 1 Leadership Interview [30 mins]\
   c. 1 Culture Interview [30 mins] (with non-engineer - Sales or Ops)
     - Look for empathy, communication, drive, interest in working in early stage
-    
+
  * Maybe a lunch to replace culture
 
 ## Grading Rubric
@@ -40,9 +49,9 @@ __These questions are meant for the future to filter out candidates__
 
 ### Interview Review
 Overall score (A - D):\
-A: [Strong Yes] I love this candidate, I WANT them at Humming Homes (I’ll fight you)
-B: [Yes] The candidate is pretty solid, but could be convinced otherwise
-C: [No] Not a good candidate, but could be convinced otherwise
+A: [Strong Yes] I love this candidate, I WANT them at Humming Homes (I’ll fight you)\
+B: [Yes] The candidate is pretty solid, but could be convinced otherwise\
+C: [No] Not a good candidate, but could be convinced otherwise\
 D: [Strong No] Would not hire, EVER. I’ll convince others this is a bad hire
 
 List pros, cons, overall impression. Leave a grade.
