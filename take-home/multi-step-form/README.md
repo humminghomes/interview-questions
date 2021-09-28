@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+## Multi-step form Challenge
 
 Welcome! Today's challenge consists of creating a multi-step form that takes in a user's name, favorite animal, and today's date. Each of these inputs should be its own steps. The user should be able to navigate in between screens, and finally submit at the end. Bonus if you add in form validation!
 
