@@ -1,17 +1,18 @@
 # iOS Coding Challenge
 
+## Background: 
+The Resistance is having trouble keeping track of the names of their friends and enemies across the galaxy so we need your help. Using SWAPI, create an app that retrieves and displays a list of the characters from Star Wars.
+
 ## Guidance: 
 Feel free to use any resources necessary. Using google won’t count against you - Stackoverflow is our friend! Completing the assignment is secondary, the goal of this exercise is to gain insight into your coding thought process and to collaborate!
 
-## Background: 
-The Resistance is having trouble keeping track of the names of their friends and enemies across the galaxy so we need your help. Using SWAPI, create an app that retrieves and displays a list of the characters from Star Wars.
-----------
 In XCode create a new app for the challenge. Write the code to make the API request, parse the response and display the characters in a view. Use Storyboards or SwiftUI for the visual components.
 
 ## SWAPI info:
 - More info about SWAPI can be found at https://swapi.dev/
 - Make the GET request to https://swapi.dev/api/people/
 - SWAPI people response: 
+```
 {
 "count": 1,
     "next": "https://swapi.dev/api/people/?page=2",
@@ -48,5 +49,6 @@ In XCode create a new app for the challenge. Write the code to make the API requ
         }
     ]
 }
+```
 
 
