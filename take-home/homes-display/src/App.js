@@ -4,22 +4,22 @@ import axios from "axios";
 
 let API = axios.create({
   baseURL: "https://api.jsonbin.io/b/5f1b0596c58dc34bf5d9e9a9",
-  responseType: "json",
+  responseType: "json"
 });
 
 const App = () => {
-  const [properties, setProperties] = useState({});
+  const [properties, setProperties] = useState([]);
 
   useEffect(() => {
     API.get("/").then((response) => {
-      setProperties(response.data.properties)
+      setProperties(response.data.properties);
 
       // The API response
-      console.log(response.data)
+      console.log(response.data);
     });
   }, []);
 
-  console.log(properties)
+  console.log(properties);
 
   return (
     <div className="App">
